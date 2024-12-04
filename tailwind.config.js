@@ -12,7 +12,8 @@ module.exports = {
         card: {
           bg: '#334155',
           text: '#F1F5F9',
-          text2: '#FACC15'
+          text2: '#FACC15',
+          text3: '#22D3EE',
         },
       },
     },
